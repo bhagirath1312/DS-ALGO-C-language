@@ -79,7 +79,7 @@ void display()
     {
         printf("Queue is : \n");
         for (i = front; i <= rear; i++)
-            printf("%d ", queue_array[i]);
+        printf("%d ", queue_array[i]);
         printf("\n");
     }
 } 
